@@ -1,7 +1,7 @@
 """Bu kod, kullanıcıdan alınan girişlere göre belirli bir süre içinde belirtilen
  mesajı belirli sayıda kez otomatik olarak yazan bir programın basit bir arayüzünü oluşturur.
  Kullanıcı, programı başlatabilir veya sonlandırabilir.
- Bu programın çalışma mantığı şudur kursör nerede ise belirlenen input değerleri oraya yazılır ve enter'a basılır.
+ Bu programın çalışma mantığı: kursör nerede ise belirlenen input değerleri oraya yazılır ve enter'a basılır.
 """
 import tkinter as tk
 import pyautogui
