@@ -48,7 +48,7 @@ def quit_program():
 
 # Tkinter arayüzünü oluşturma
 root = tk.Tk()
-root.title("Program Arayüzü")
+root.title("Spam")
 
 # Arka plan rengi
 root.configure(bg='#333333')
